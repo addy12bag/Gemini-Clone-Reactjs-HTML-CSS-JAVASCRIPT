@@ -28,7 +28,7 @@ A modern AI-powered chat interface built using **React.js**, **HTML**, **CSS**, 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/addy12bag/gemini-clone.git
+git clone https://github.com/addy12bag/Gemini-Clone-Reactjs-HTML-CSS-JAVASCRIPT.git
 cd gemini-clone
 npm install
 
